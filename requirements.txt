@@ -1,0 +1,10 @@
+torch>=2.1
+numpy
+scipy
+scikit-learn
+pandas
+tabulate
+matplotlib
+rarfile
+onnx
+onnxruntime

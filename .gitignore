@@ -1,0 +1,11 @@
+# data, checkpoints and experiment outputs are not tracked
+data/raw/
+data/processed/
+ckpt/
+results/
+deploy/
+curves/
+logs*.txt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
